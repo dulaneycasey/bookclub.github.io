@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&family=Libre+Franklin&display=swap');
+
+h2{
+  font-family: 'Libre Franklin';
+  background-color: white;
+}
+
+  
+.container-fluid {
+    padding: 10px;
+  }
+  
+
+  .h2 {
+    text-align: center;
+  }
+
+h1 {
+    font-family: 'Bitter';
+    font-weight: bold;
+ }
+
+  body, h1 {
+    text-align: center;
+  }
+  
+ .font1 {
+    font-family: 'Bitter';
+    font-weight: bold;
+    font-size: 32pt;
+}
+  
+  
+.opal {
+    background: #C5D8D1;
+  }
+  
+
+.font3 {
+    font-family: 'Libre Franklin';
+    font-size: 12pt;
+}
+ 
+
+.bluegreen {
+    background-color: #06BCC1;
+
+}
+
+.prussianblue {
+    background-color: #12263A;
+}
+
+
+
+
+a:visited {
+    color: #12263A;
+}
