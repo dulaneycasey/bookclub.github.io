@@ -7,7 +7,7 @@ h2{
 
   
 .container-fluid {
-    padding: 10px;
+    padding: 0px;
   }
   
 
@@ -33,7 +33,8 @@ h1 {
   
 .opal {
     background: #C5D8D1;
-  }
+    padding: 1px;
+}
   
 
 .font3 {
@@ -60,9 +61,9 @@ a:visited {
 
 form{
   max-width: 100%;
-  margin: 10px;
+  margin: 20px;
   padding: 20px;
-  background: lightblue;
+  background: #F4EDEA;
   border-radius: 10px;
 }
 
@@ -76,7 +77,7 @@ select{
 
 .newbutton{
     height: 50px; 
-    background: linear-gradient(90deg, teal 0% , purple 100%);
+    background: #C5D8D1;
     font-size: 20px;
     text-align: center;
     border-radius: 5px;
@@ -84,15 +85,32 @@ select{
     margin-top: 5px;
     transition: all 1000ms ease;
     transform-origin: right;
-    color: white;
+    color: #12263a;
   }
   
 .newbutton:hover,
 .newbutton:focus{
-    background: purple;
-    color: lightgrey
+    background-color: #06BCC1;
+    color: #12263A;
   }
 
 .imgcontainer{
   width: 100%
+}
+
+footer{
+  background-color: #F4D1AE;
+  height: 75px;
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+  margin-left: -1px;
+}
+
+.lorange {
+  background-color: #F4D1AE;
+  margin-bottom: -10px;
+}
+.books{
+  margin-bottom: 10px;
 }
