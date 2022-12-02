@@ -53,8 +53,6 @@ h1 {
 }
 
 
-
-
 a:visited {
     color: #12263A;
 }
@@ -67,12 +65,16 @@ form{
   border-radius: 10px;
 }
 
-input,
-select{
+input {
   font-size: 15px;
   height: 50px;
   width: 100%;
   margin-bottom: 20px;
+  padding: 15px;
+}
+
+label {
+  margin-bottom: 5px;
 }
 
 .newbutton{
